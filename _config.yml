@@ -4,3 +4,5 @@ plugins:
 title: "Github page"
 description: "Description"
 show_downloads: true
+source: docs
+destination: docs/_site
